@@ -45,21 +45,7 @@ To run this app locally, you need an **OpenWeatherMap API key**:
    ```js
    const apiKey = "YOUR_API_KEY"; // Replace this
    ```
-
 ---
-
-## **📸 Screenshots**  
-| **Desktop View** | **Mobile View** |
-|------------------|------------------|
-| ![Desktop Preview](https://via.placeholder.com/600x400/333/fff?text=Desktop+View) | ![Mobile Preview](https://via.placeholder.com/300x500/333/fff?text=Mobile+View) |
-
----
-
-## **📜 License**  
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
-
----
-
 ## **💡 Contributions**  
 Contributions are welcome! Feel free to:  
 - **Report bugs** (Open an Issue)  
@@ -69,7 +55,6 @@ Contributions are welcome! Feel free to:
 
 ## **📬 Contact**  
 - **GitHub:** [@chstridho](https://github.com/chstridho)  
-- **Email:** [Your Email]  
 
 ---
 
