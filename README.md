@@ -5,6 +5,7 @@
 ---
 
 ## **📌 Features**  
+
 ✔️ **Real-time weather data** (temperature, humidity, wind speed, and conditions)  
 ✔️ **Location-based weather** (automatic detection or manual city search)  
 ✔️ **Dynamic weather icons** (changes based on weather conditions)  
@@ -14,6 +15,7 @@
 ---
 
 ## **🛠️ Technologies Used**  
+
 - **HTML5** (Structure)  
 - **CSS3** (Styling & Animations)  
 - **JavaScript** (API Fetch & Dynamic Updates)  
@@ -22,6 +24,7 @@
 ---
 
 ## **🚀 Installation & Setup**  
+
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/chstridho/weather-app.git
@@ -36,6 +39,7 @@
 ---
 
 ## **🔑 API Key Setup**  
+
 To run this app locally, you need an **OpenWeatherMap API key**:  
 1. Sign up at [https://openweathermap.org/api](https://openweathermap.org/api)  
 2. Get your **free API key**  
@@ -46,6 +50,7 @@ To run this app locally, you need an **OpenWeatherMap API key**:
 ---
 
 ## **💡 Contributions**  
+
 Contributions are welcome! Feel free to:  
 - **Report bugs** (Open an Issue)  
 - **Suggest improvements** (Submit a Pull Request)  
@@ -53,6 +58,7 @@ Contributions are welcome! Feel free to:
 ---
 
 ## **📬 Contact**  
+
 - **GitHub:** [@chstridho](https://github.com/chstridho)  
 
 ---
