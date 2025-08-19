@@ -17,7 +17,7 @@
 ## **🛠️ Technologies Used**  
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  /> **HTML5** (Structure)  
-- <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  /> **CSS3** (Styling & Animations)  
+- <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  /> </span> Styling & Animations)  
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  /> **JavaScript** (API Fetch & Dynamic Updates)  
 - **OpenWeatherMap API** (Weather Data)  
 
