@@ -2,8 +2,6 @@
 
 🌦️ **A responsive weather application** that fetches real-time weather data from the OpenWeatherMap API. Built with **HTML, CSS, and JavaScript**.  
 
-🔗 **Live Demo:** [https://chstridho.github.io/weather-app/](https://chstridho.github.io/weather-app/)  
-
 ---
 
 ## **📌 Features**  
@@ -46,6 +44,7 @@ To run this app locally, you need an **OpenWeatherMap API key**:
    const apiKey = "YOUR_API_KEY"; // Replace this
    ```
 ---
+
 ## **💡 Contributions**  
 Contributions are welcome! Feel free to:  
 - **Report bugs** (Open an Issue)  
@@ -66,6 +65,4 @@ Enjoy checking the weather! ☀️🌧️❄️
 - [GitHub Repository](https://github.com/chstridho/weather-app)  
 - [OpenWeatherMap API](https://openweathermap.org/api)  
 
----  
 
-Would you like me to add anything else, such as a **more detailed setup guide** or **screenshots with real app images**? 😊
